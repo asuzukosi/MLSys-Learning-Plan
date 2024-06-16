@@ -92,7 +92,7 @@ Each of these topic categories is broken down into fundamentals interemediate an
 
 ## Batches
 
-The batches define sets of topics that should be studied together, each batch builds on the foundations of the previous batch. The batches are recommended to completed in 14 weeks (~ 3 months)
+The batches define sets of topics that should be studied together, each batch builds on the foundations of the previous batch. The batches are recommended to completed in 14 weeks (~ 3 months). The batches include a combination of content in the books mentioned above, research papers and coursera courses. doing projects at the end fo every batch is recommended.
 
 ### Batch 1:
 
